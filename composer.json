@@ -1,0 +1,9 @@
+{
+    "require": {
+        "doctrine/orm": "^2.5",
+        "react/stream": "^0.7.2",
+        "react/socket": "^0.8.0",
+        "react/http": "^0.7.1",
+        "symfony/http-foundation": "^3.3"
+    }
+}
