@@ -1,4 +1,4 @@
-# XFramework
+# Functional web framework (FWF)
 Modern front-end centric framework using functionallly programmed frontend with database server support
 
 ## Key planned features:
